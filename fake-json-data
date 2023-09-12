@@ -1,0 +1,30 @@
+[
+  {
+    "brand": "Apple",
+    "model": "Apple Watch Series 7",
+    "price": 399.99,
+    "OS": "watchOS",
+    "features": ["Fitness tracking", "ECG", "GPS", "Water-resistant"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Samsung Galaxy Watch 4",
+    "price": 249.99,
+    "OS": "Wear OS",
+    "features": ["Fitness tracking", "ECG", "Blood pressure monitoring", "GPS"]
+  },
+  {
+    "brand": "Fitbit",
+    "model": "Fitbit Versa 3",
+    "price": 199.99,
+    "OS": "Fitbit OS",
+    "features": ["Fitness tracking", "Heart rate monitoring", "GPS"]
+  },
+  {
+    "brand": "Garmin",
+    "model": "Garmin Fenix 6",
+    "price": 599.99,
+    "OS": "Garmin OS",
+    "features": ["Outdoor navigation", "Heart rate monitoring", "GPS", "Water-resistant"]
+  }
+]

@@ -1,7 +1,7 @@
 [
   {
     "brand": "Apple",
-    "model": "Apple Watch Series 7",
+    "model": "Apple Watch Series 777",
     "price": 399.99,
     "OS": "watchOS",
     "features": ["Fitness tracking", "ECG", "GPS", "Water-resistant"]
